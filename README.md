@@ -13,7 +13,7 @@ This application allows users to dial phone numbers and save them to a list. The
 
 ### Technical Details
 
-    The application is written in Kotlin
+    The application is written in Java
     The application uses the Android Telephony API to dial phone numbers
     The application uses the Android SharedPreferences API to save phone numbers to a list
 
